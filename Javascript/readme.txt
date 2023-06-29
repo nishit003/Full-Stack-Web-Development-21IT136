@@ -16,4 +16,4 @@ Task7 : DOM(document object model) Manipulation
 
 Task8 : Error Handling
 
-Task1 : Asynchronous JavaScript
+Task9 : Asynchronous JavaScript
